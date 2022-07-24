@@ -1,0 +1,84 @@
+.home-page{
+
+    .text-zone{
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40%;
+        max-height: 90%;
+    }
+
+    h1{
+        color: rgb(0, 0, 0); /* Hi I'm artistonsteroids line*/
+        font-size: 53px;
+        margin: 0;
+        font-family: 'Coolvetica';
+        font-weight: 400;
+
+        &::before{
+            content: '(3D Characters)'; /* 3D charcters line before Hi I'm ....  */
+            opacity: 0.6;
+            font-family: 'La Belle Aurore';
+            color: #00b3ff;
+            font-size: 40px;
+            position: absolute;
+            margin-top: -40px;  /* adjust the position from top of Hi*/
+            left: 35px;
+        }
+
+        &::after{
+            content: '(3D environments)'; /* 3d environments line after I'm artist on steroids*/
+            font-family: 'La Belle Aurore';
+            color: #000000;
+            font-size: 30px;
+            position: absolute;
+            margin-top: 40px;
+            margin-left: 45px;
+            animation: fadeIn 1s 1.7s backwards;
+            opacity: 0.6;
+        }
+
+        img{
+            width: 60px; /* Image of logo displayed on landing page resized*/
+            margin-left: 10px;
+            margin-top: 10px;
+            opacity: 0;
+            height: auto;
+            animation: rotateIn 1s linear both;
+            animation-delay: 1.3s;
+        }
+    }
+
+    h2{
+        color: #040404; /* 3d charcater artist/environment creator line */
+        margin-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        font-family: sans-serif;
+        letter-spacing: 2px;
+        animation: fadeIn 1s 1.8s backwards;
+        opacity: 0.7;
+    }
+
+    .flat-button{            /* contact me button on home page */
+        color: #007bff;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        font-family: sans-serif;
+        text-decoration: none;
+        padding: 10px 18px;
+        border: 1px solid #007bff;
+        margin-top: 20px;
+        float: left;
+        animation: fadeIn 1s 1.8s  backwards;
+        white-space: nowrap;
+
+        &:hover{
+            background:#007bff;  /* button fill color */ 
+            color: #020f1c; /* Font color of contact me button*/
+        }
+    }
+}
+
