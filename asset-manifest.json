@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/artistonsteroids/static/css/main.8f3f5115.css",
+    "main.js": "/artistonsteroids/static/js/main.cd3014cb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/artistonsteroids/static/js/787.a2cb61a6.chunk.js",
+    "static/media/captain_deadpool.png": "/artistonsteroids/static/media/captain_deadpool.4a5dae63c1caaad45da0.png",
+    "static/media/logo-a.png": "/artistonsteroids/static/media/logo-a.c708efb207df51f9e214.png",
+    "static/media/spidermanFront.png": "/artistonsteroids/static/media/spidermanFront.1abe324a85dcac2233ea.png",
+    "static/media/DrStrangeShield.png": "/artistonsteroids/static/media/DrStrangeShield.5f3a2b474577e5f8cd17.png",
+    "static/media/isometricBedroom.png": "/artistonsteroids/static/media/isometricBedroom.49d5e81a1e7d50e684a1.png",
+    "static/media/mmaFighterMesh.png": "/artistonsteroids/static/media/mmaFighterMesh.d058bd13bb301c897604.png",
+    "static/media/xy.png": "/artistonsteroids/static/media/xy.866fda8de00cbed236de.png",
+    "static/media/heatgear.png": "/artistonsteroids/static/media/heatgear.6b525f4bc7762f6092dc.png",
+    "static/media/gokussj4.png": "/artistonsteroids/static/media/gokussj4.0fa70eaf62b6ba26b620.png",
+    "static/media/mmaFighter.png": "/artistonsteroids/static/media/mmaFighter.52b395867846e199cc40.png",
+    "static/media/cottage.jpg": "/artistonsteroids/static/media/cottage.604b4443b03a632a86b2.jpg",
+    "static/media/isometricBedroomClay.png": "/artistonsteroids/static/media/isometricBedroomClay.f456e650c25797317030.png",
+    "static/media/diamondhead.jpg": "/artistonsteroids/static/media/diamondhead.3df6e84702f91bd11e06.jpg",
+    "static/media/Snow_cottage.jpg": "/artistonsteroids/static/media/Snow_cottage.b6c033a0b3d6968785a6.jpg",
+    "static/media/batman_funkoPop.jpg": "/artistonsteroids/static/media/batman_funkoPop.8007c29fcd26801cec87.jpg",
+    "static/media/logo-sub.png": "/artistonsteroids/static/media/logo-sub.adf424403e62795ef70f.png",
+    "static/media/faceSculpt.png": "/artistonsteroids/static/media/faceSculpt.9299db123ee29ea8e061.png",
+    "static/media/helvetica-neu.ttf": "/artistonsteroids/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/artistonsteroids/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/artistonsteroids/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/artistonsteroids/index.html",
+    "main.8f3f5115.css.map": "/artistonsteroids/static/css/main.8f3f5115.css.map",
+    "main.cd3014cb.js.map": "/artistonsteroids/static/js/main.cd3014cb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/artistonsteroids/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3f5115.css",
+    "static/js/main.cd3014cb.js"
+  ]
+}
