@@ -13,6 +13,7 @@ import mmaFighterMesh from '../src/components/Portfolio/img/mmaFighterMesh.png'
 import DrStrangeShield from '../src/components/Portfolio/img/DrStrangeShield.png'
 import faceSculpt from '../src/components/Portfolio/img/faceSculpt.png'
 import heatgear from '../src/components/Portfolio/img/heatgear.png'
+import air_jordan_1 from '../src/components/Portfolio/img/air_jordan_1.png'
 
 export default [
   xy,
@@ -30,4 +31,5 @@ export default [
   captain_deadpool,
   batman_funkoPop,
   Snow_cottage,
+  air_jordan_1,
 ]
