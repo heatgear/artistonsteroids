@@ -64,7 +64,7 @@ const Sidebar = () => (
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.linkedin.com/in/yuvraj-singh-384b20197/"
+          href="https://www.instagram.com/artistonsteroids/"
         >
           <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
         </a>
